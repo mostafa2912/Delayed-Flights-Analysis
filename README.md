@@ -30,9 +30,8 @@ The Power BI dashboard visualizes:
 ---
 
 ## 📁 Files Included
--  `delayed_flights.ipynb` → Python data cleaning 
 - https://drive.google.com/file/d/1a9MrSy7oKgvOMGf4ZZUBj2IK4kfTxAbR/view?usp=sharing
-  include `delayed_flights.pbix` → Power BI visualization dashboard cause file is more than 25 mb
+  include `delayed_flights.pbix` → Power BI visualization dashboard abd `delayed_flights.ipynb` → Python data cleaning  cause file is more than 25 mb 
 
 ---
 
